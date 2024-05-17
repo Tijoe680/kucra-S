@@ -5,13 +5,13 @@
                                               Utilisation et découverte de : 
 
                                                         
-                                                  ✔️ lien cliquable, 
-                                                  ✔️ hover, 
-                                                  ✔️ form, 
-                                                  ✔️ h1, h2…., p, 
-                                                  ✔️ paralax, 
-                                                  ✔️ Insertion de lien 
-                                                  ✔️  Accessibilité grâce au ALT des images et ou vidéo
+                                                ✔️ lien cliquable, 
+                                                ✔️ hover, 
+                                                ✔️ form, 
+                                                ✔️ h1, h2…., p, 
+                                                ✔️ paralax, 
+                                                ✔️ Insertion de lien 
+                                                ✔️  Accessibilité grâce au ALT des images et ou vidéo
 
 
 
